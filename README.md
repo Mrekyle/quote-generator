@@ -1,2 +1,2 @@
 # quote-generator
-qwqwaqwaqw2wq3w2q
+Project 2 of JS 
